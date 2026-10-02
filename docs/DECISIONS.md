@@ -1,0 +1,26 @@
+# Confirmed Product Decisions
+
+- Product name: MiseAI
+- Market: Japan
+- Initial industries: beauty salons + restaurants
+- Website type: single-page
+- Input method: guided questions
+- Photos: minimum 10, no intended product upper limit
+- Photo UX: large gallery, click/tap enlarge
+- Staff section: not required for salon
+- Designs: 3 variants
+- Editing: all content editable in dashboard
+- Publish: preview before publish
+- Free plan: ¥0 with ads
+- Paid support: ¥9,800/month
+- Included support requests: 10/month
+- 11th+ support request: ¥2,000/request
+- One request = one submitted request, even if it contains multiple edits
+- Support request channels: dashboard + LINE
+- MVP payment: Stripe
+- Later payment expansion: GMO or equivalent account-debit support
+- Free subdomain + optional custom domain
+- AI copy generated, then user can edit
+- Mobile-first
+- LINE is primary reservation channel for salon
+- Restaurant supports LINE + phone + external reservation links
